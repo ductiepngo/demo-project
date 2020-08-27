@@ -6,7 +6,6 @@
 	if (isset($_GET['id'])) {
 		$id = (int)$_GET['id'];//ep du lieu sang kieu so nguyen
 		$row = getMember_id($id);
-
 		if (isset($_POST['update_member'])) {
 			$name = $_POST['name'];
 			$idKhoa = $_POST['faculty'];
