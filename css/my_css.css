@@ -1,0 +1,24 @@
+.footer{
+	background: #333;
+	color: #fff;
+	padding: 15px 0px;
+}
+
+.main_member{
+	min-height: 500px;
+}
+
+.navbar{
+	margin-bottom: 0px;
+}
+
+.list_admin{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.txt_errror{
+	color: red;
+	font-weight: bold;
+	font-style: italic;
+}
